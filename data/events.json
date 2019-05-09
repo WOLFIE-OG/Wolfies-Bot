@@ -1,0 +1,1 @@
+[null,{"name":"Error","temp":"","event-type":"37","actions":[{"username":"{ERROR HAS OCCURED} Wolfies Bot","name":"Set Bot Username"}]},{"name":"OnTurnOn","temp":"","event-type":"1","actions":[{"gameName":"Bot Is Online","gameLink":"","name":"Set Bot Game"}]}]
